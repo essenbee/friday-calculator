@@ -9,12 +9,11 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/netcoreapp2.1/calculator.dll",
+            "program": "${workspaceFolder}/bin/HPD/Debug/netcoreapp2.1/calculator.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
-            "console": "integratedTerminal",
             "stopAtEntry": false,
-            "internalConsoleOptions": "openOnSessionStart"
+            "console": "integratedTerminal"
         },
         {
             "name": ".NET Core Launch (web)",
